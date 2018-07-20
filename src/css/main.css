@@ -1,0 +1,36 @@
+.nav-menu {
+    float: right;
+}
+
+.infoBox {
+    border: ridge black;
+    margin-bottom: 1px;
+    height: 220px;
+}
+
+.nav{
+    color: black;
+}
+
+.lateral {
+    border: ridge black;
+    margin-bottom: 1px;
+    height: 441px;
+}
+
+footer {
+    text-align: center;
+    border: ridge black;
+    background-color: black;
+    color: white;
+}
+
+.Slider {
+    border: ridge black;
+    margin-bottom: 1px;
+    height: 110px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
