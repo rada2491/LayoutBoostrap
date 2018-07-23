@@ -12,6 +12,13 @@
   "devDependencies": {
     "http-server": "^0.11.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rada2491/LayoutBoostrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rada2491/LayoutBoostrap/issues"
+  },
+  "homepage": "https://github.com/rada2491/LayoutBoostrap#readme"
 }
